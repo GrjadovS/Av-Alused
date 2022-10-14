@@ -1,6 +1,6 @@
 # Av-Alused
 
-## SSSS
+## printf & nc kasutamine
 Kui pingida läbi cmd või muu konsooli, siis selgub et päring võtab ühendust operatiivsüteemiga, SSH-ga, aga võtab ühendust server. 
 Selgus, et peale Windows, Linux ja Mac OS on olemas ka muid OS süsteeme, nagu BSD, IBM i jms. 
 
